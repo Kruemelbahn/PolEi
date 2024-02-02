@@ -2,8 +2,8 @@
 
 This small circuit (developed by Gerald Klein) is intended for polarity testing when setting up DCC track systems - e.g. from modules. It is designed for voltages from 12 to 17 volts effective.
 
-Usage:
-Place the PolEi PolEi over the separation point so that each current collector has a track connection.
+***Usage***:<br>
+Place the PolEi over the separation point so that each current collector has a track connection.
 The following statements are possible with the LEDs:<br> 
 - **LED left lights up**: DCC signal present on the left track.<br>
 - **LED on the right lights up**: DCC signal present on the right track.<br>
