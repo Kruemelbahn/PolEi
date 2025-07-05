@@ -21,4 +21,7 @@ Original files can be found her:<br>
 A kit is available here:<br>
 - https://www.h0fine.com/Shop2/product_info.php?products_id=32<br>
 
+An alternative housing can be found here:<br>
+- https://www.thingiverse.com/thing:4565243
+
 [^1]: Prerequisite for a correct measurement is that the two neighboring boosters are not supplied with power via a common power supply unit. 
