@@ -19,7 +19,7 @@ Original files can be found her:<br>
 - https://sourceforge.net/p/fremodcc/svn/HEAD/tree/PolungsPruefer/<br>
 
 A kit is available here:<br>
-- https://www.h0fine.com/Shop2/product_info.php?products_id=32<br>
+- https://www.h0fine.de/Shop2/product_info.php?products_id=32<br>
 
 An alternative housing can be found here:<br>
 - https://www.thingiverse.com/thing:4565243
